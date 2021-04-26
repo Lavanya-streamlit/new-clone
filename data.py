@@ -1,9 +1,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-from PIL import Image
-import plotly.express as px
-import plotly.graph_objects as go
 
 st.title('Status of Survey about covid')
 #st.write("It shows ***PC level analysis*** in Tirupati PC")
